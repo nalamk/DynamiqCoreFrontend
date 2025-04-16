@@ -1,1 +1,1 @@
-# DynamiqCoreFrontend
+# CareDynamiq Frontend
